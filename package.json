@@ -1,10 +1,13 @@
 {
   "name": "webpack-dists-loader",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/koregvg/webpack-dists-loader.git"
-  }
-  "version": "1.1.7",
+    "type": "git",
+    "url": "https://github.com/koregvg/webpack-dists-loader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koregvg/webpack-dists-loader/issues"
+  },
+  "version": "1.1.8",
   "description": "a simple webpack loader for code-block pre-deal",
   "main": "index.js",
   "scripts": {
