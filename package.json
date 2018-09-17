@@ -1,0 +1,17 @@
+{
+  "name": "webpack-dists-loader",
+  "version": "1.1.7",
+  "description": "a simple webpack loader for code-block pre-deal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "keywords": [
+    "webpack-dists-loader"
+  ],
+  "author": "koregvg",
+  "license": "MIT"
+}
